@@ -1,4 +1,6 @@
-React redux project based on the tutorial from The Net Ninja - Complete React Tutorial (& Redux) https://www.youtube.com/watch?v=3qk6yQWKVoQ
+React redux project based on the tutorial from 
+Unsure Programmer - #1 TODO APP Redux | React Native | Structuring Your Redux App
+https://www.youtube.com/watch?v=pyfPG7erRxI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
